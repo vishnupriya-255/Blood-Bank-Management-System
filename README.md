@@ -211,89 +211,7 @@ Dashboard
 
 ---
 
-## ⚙️ Installation and Setup
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/vishnupriya-255/Blood-Bank-Management-System.git
-```
-
-Navigate into the project:
-
-```bash
-cd Blood-Bank-Management-System
-```
-
----
-
-### 2. Set Up the Database
-
-Open MySQL or MySQL Workbench.
-
-Create the required database and execute the SQL file provided in:
-
-```text
-blood bank sql.sql
-```
-
-The SQL file contains the database structure required by the application.
-
----
-
-### 3. Set Up the Backend
-
-Open a terminal and navigate to:
-
-```bash
-cd "bloodbank backend"
-```
-
-Install the required dependencies:
-
-```bash
-npm install
-```
-
-Start the backend server:
-
-```bash
-node server.js
-```
-
-The backend runs on the configured local server port.
-
----
-
-### 4. Set Up the Frontend
-
-Open another terminal and navigate to:
-
-```bash
-cd blood_bank_frontend
-```
-
-Install the frontend dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Vite will provide a local URL, usually similar to:
-
-```text
-http://localhost:5173
-```
-
-Open the displayed URL in your browser.
-
----
 
 ## 🗄️ Database
 
@@ -379,7 +297,7 @@ This project was developed as a **college full-stack development project** to de
 
 ## 👩‍💻 Developer
 
-**Vishnupriya**
+**SUGGULA SRI VISHNUPRIYA** and **VUNGARALA MOUKTHIKA**
 
 Computer Science Engineering
 KL University Hyderabad
